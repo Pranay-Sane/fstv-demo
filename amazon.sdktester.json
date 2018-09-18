@@ -1,0 +1,31 @@
+{
+  "one.month.premium": {
+    "itemType": "ENTITLED",
+    "price": "0.99",
+    "title": "Premium 1 Month",
+    "description": "Access Premium Shows for 1 Month",
+    "smallIconUrl": "./assets/one_month.png",
+    "days": "30"
+  },
+  "three.month.premium": {
+    "itemType": "ENTITLED",
+    "price": "1.49",
+    "title": "Premium 3 Months",
+    "description": "Access Premium Shows for 3 Months",
+    "smallIconUrl": "./assets/three_month.png"
+  },
+  "six.month.premium": {
+    "itemType": "ENTITLED",
+    "price": "1.99",
+    "title": "Premium 6 Months",
+    "description": "Access Premium Shows for 6 Months",
+    "smallIconUrl": "./assets/six_month.png"
+  },
+  "one.year.premium": {
+    "itemType": "ENTITLED",
+    "price": "2.99",
+    "title": "Premium 12 Months",
+    "description": "Access Premium Shows for 1 year",
+    "smallIconUrl": "./assets/one_year.png"
+  }
+}
